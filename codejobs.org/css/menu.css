@@ -1,0 +1,44 @@
+#sse50 
+{
+    border: solid 1px #370202;
+    width: 800px;
+    background:#BD0000 url(../images/mb50_3_bg.gif) repeat-x;
+    padding:0px;
+    text-align:center;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+#sses50
+{
+    margin:0 auto;
+    font-size:0;
+}
+        
+#sses50 ul, #sses50 li
+{
+    display: inline;
+    list-style-type:none;padding:0;margin:0;border:0;background-image:none;
+}
+        
+#sses50 a
+{
+    text-align: center;
+    display: inline-block;
+    font: normal 12px "Arial";
+    background: #900 url('../images/mb50_3.gif') no-repeat left top;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+        
+#sses50 a:hover, #sses50 a.current
+{
+    background-position: 0% -60px;
+    color: white;
+}
+#sses50 a.end
+{
+    width:2px;
+    padding-left:0;padding-right:0;
+}
