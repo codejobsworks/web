@@ -4,6 +4,9 @@
    <script language="text/javascript" src="js/menu.js"></script>
    <link rel="stylesheet" href="css/menu.css" type="text/css"></link>
    <link rel="stylesheet" href="css/style.css" type="text/css"></link>
+   <link rel="stylesheet" href="css/normalize.css" type="text/css"></link>
+   <link rel="icon" href="favicon.ico" type="image/x-icon">
+   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
    <meta name="description" content="Fast resources for hackers">
    <meta name="keywords" content="Jobs,Resources,Hackers,Programming,Design,Security,Pentesting,Code,Money,Bitcoins,Freelancers,Worktank,Services,Works,Tasks,P2P">
    <meta name="author" content="Codejobs.org">
