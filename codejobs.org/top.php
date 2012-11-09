@@ -30,6 +30,10 @@
      </td>
      </tr>
     </table>
+ <div id="ads" align="left" width="200">
+ <iframe data-aa="1207" align="left" src="http://ad.anonymousads.com/1207/html" scrolling="no" style="width:200px; height:50px; border:0px; padding:0pt"></iframe>
+  </div>
+
   <div id="sse50">
    <div id="sses50">
     <ul>
@@ -42,3 +46,4 @@
     </ul>
    </div>
   </div>
+
